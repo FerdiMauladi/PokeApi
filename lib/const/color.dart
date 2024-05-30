@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const Color rock = Color(0xffB69E31);
+const Color ghost = Color(0xff70559B);
+const Color steel = Color(0xffB7B9D0);
+const Color water = Color(0xff6493EB);
+const Color grass = Color(0xff74CB48);
+const Color psychic = Color(0xffFB5584);
+const Color ice = Color(0xff9AD6DF);
+const Color dark = Color(0xff75574C);
+const Color fairy = Color(0xffE69EAC);
+const Color normal = Color(0xffAAA67F);
+const Color fighting = Color(0xffC12239);
+const Color flying = Color(0xffA891EC);
+const Color poison = Color(0xffA43E9E);
+const Color ground = Color(0xffDEC16B);
+const Color bug = Color(0xffA7B723);
+const Color fire = Color(0xffF57D31);
+const Color electric = Color(0xffF9CF30);
+const Color dragon = Color(0xff7037FF);
